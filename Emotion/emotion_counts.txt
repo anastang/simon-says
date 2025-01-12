@@ -1,0 +1,7 @@
+happy: 19
+sad: 12
+angry: 10
+fear: 46
+surprise: 9
+disgust: 0
+neutral: 73
